@@ -17,7 +17,7 @@ R package that unifies function naming to common standards i.e. `camelCase()`, `
 
 ## Changelog
 
-See the [changelog](https://github.com/garciparedes/ng-katex/releases) to get more info about release changes.
+See the [changelog](https://github.com/garciparedes/ng-katex/releases) or [NEWS.md](NEWS.md) to get more info about release changes.
 
 ## Contributing
 
