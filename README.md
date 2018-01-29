@@ -3,7 +3,7 @@
 [![CRAN](https://img.shields.io/cran/l/unifyr.svg)](LICENSE)
 
 ## Description
-R package that unifies function naming to common standards i.e. `camelCase()`, `snake_case()` or `dot.case()`.
+R package that unifies function naming to common standards.
 
 ## Install
 [TODO]
