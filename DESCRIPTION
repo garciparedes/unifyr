@@ -1,5 +1,5 @@
 Package: unifyr
-Title: Unifies function naming to common standards
+Title: Unifies Function Naming to Common Standards
 Version: 0.0.8
 Authors@R: person("Sergio", "García Prado", email = "sergio@garciparedes.me",
                   role = c("aut", "cre"))
