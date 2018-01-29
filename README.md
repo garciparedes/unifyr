@@ -1,6 +1,7 @@
 # unifyr
 [![CRAN](https://img.shields.io/cran/v/unifyr.svg)](https://cran.r-project.org/web/packages/unifyr/)
 [![CRAN](https://img.shields.io/cran/l/unifyr.svg)](LICENSE)
+[![Travis](https://img.shields.io/travis/garciparedes/unifyr.svg)](https://travis-ci.org/garciparedes/unifyr)
 
 ## Description
 R package that unifies function naming to common standards.
