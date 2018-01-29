@@ -1,13 +1,13 @@
 Package: unifyr
-Title: R package that unifies function naming to common standards i.e.
-    camelCase(), snake_case() or dot.case()
-Version: 0.0.5
+Title: Unifies function naming to common standards.
+Version: 0.0.6
 Authors@R: person("Sergio", "García Prado", email = "sergio@garciparedes.me",
                   role = c("aut", "cre"))
 Author: Sergio García Prado [aut, cre]
 Maintainer: Sergio García Prado <sergio@garciparedes.me>
-Description: R package that unifies function naming to common standards i.e.
-    camelCase(), snake_case() or dot.case().
+Description: A tool to overwrite environment's function names to follow a common
+    standard between all of it. This clarifies and prettifies your source code
+    and improves it readability.
 Depends:
     R (>= 3.1.0)
 License: Apache License (== 2.0) | file LICENSE
